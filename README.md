@@ -9,7 +9,7 @@ Stochastic simulation approaches for generating observations from the posterior 
 ## Team:
 Our team is composed by:   
 - Di Gennaro Federico: [@FedericoDiGenanro](https://github.com/FedericoDiGennaro)  
-- Lupini Michele:  
+- Lupini Michele: [@michelelupini](https://github.com/michelelupini)  
 - Trentini Leonardo: [@leotrentini22](https://github.com/leotrentini22)  
 
 ## Environment:
