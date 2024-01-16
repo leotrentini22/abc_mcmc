@@ -1,3 +1,12 @@
+import numpy as np
+import scipy.stats as st
+import random
+import math
+from sklearn.linear_model import LinearRegression
+import matplotlib.pyplot as plt
+import seaborn as sns
+from helpers import *
+
 def discrepancy_metric(x, sample_mean=0):
     '''
     Computation of discrepancy metric p = |mean(x)-sample_mean|.
